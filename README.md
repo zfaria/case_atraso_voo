@@ -23,6 +23,6 @@ O principal objetivo é prever se um voo sofrerá atraso com base nas informaç�
 
 1. **Exploração e Análise dos Dados**: Entender a estrutura e as características dos dados.
 2. **Pré-processamento**: Limpeza dos dados, tratamento de valores ausentes e transformação de características.
-3. **Engenharia de Características**: Criação de novas variáveis e seleção das mais relevantes.
+3. **Feature engineering**: Criação de novas variáveis e seleção das mais relevantes.
 4. **Modelagem**: Desenvolvimento e treinamento de modelos preditivos.
 5. **Avaliação**: Avaliação da performance dos modelos e escolha do melhor para previsão de atrasos.
